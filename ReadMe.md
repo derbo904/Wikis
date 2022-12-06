@@ -3,30 +3,6 @@
 ###### [Automotive](Automotive) ######
 - Diagnostics and schematics for the FK8 Type R, along with general audio and electrical info
 
-###### [ClearFog](ClearFog) ######
-- U-Boot MMC images, as well as a script to compile the MMC images
-
-###### [DirecTV](DirecTV-DVR-Transfer) ######
-- Wiki on how to tranfer DVR content from one HDD to another
-
-###### [OpenSSL](OpenSSL) ######
-- Wikis directly from OpenSSL's website, all authored by OpenSSL
-
-###### [OpenVPN](OpenVPN) ######
-- Wikis compiled from OpenWrt and OpenVPN
-
-###### [Scripts & Configs](Scripts%2BConfigs) ######
-- Various custom scripts, registry files, and configs
-
-###### [WRT AC Series](WRT-AC-Series) ######
-- Wikis from OpenWrt regarding the Linksys WRT AC Series routers
-
-###### [Windows](Windows/Run) ######
-- Default executable names to be used with Run...
-
-###### [XboxOne](XboxOne) ######
-- Wiki on how to upgrade or replace the internal HDD in an Xbox One
-
 
 ---
 > _I have referenced all source material I compiled from in wikis I did not personally write; if someone comes across a wiki I forgot
